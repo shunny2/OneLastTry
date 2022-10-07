@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#technologies">Technologies</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#status">Status</a>
+<a href="#project-status">Project Status</a>
 </p>
 
 </br>
@@ -16,7 +16,7 @@ The game prototype was developed during college.
 
 - [Unity](https://unity.com/)
 
-## Status
+## Project Status
 
 > Status: Stopped.
 
