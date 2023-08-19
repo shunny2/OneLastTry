@@ -13,9 +13,9 @@
 ![one-last-try](https://user-images.githubusercontent.com/72872854/214962598-d1a079d3-ffd2-4f2f-96a1-619bcafb475b.gif)
 
 <p align="center">
-  <a href="https://img.shields.io/github/stars/shunny2/one-last-try"><img src="https://img.shields.io/github/stars/shunny2/one-last-try" alt="Repo Stars"/></a>
-  <a href="https://img.shields.io/github/forks/shunny2/one-last-try"><img src="https://img.shields.io/github/forks/shunny2/one-last-try" alt="Repo Forks"/></a>
-  <a href="https://img.shields.io/github/license/shunny2/one-last-try"><img src="https://img.shields.io/github/license/shunny2/one-last-try" alt="License"/></a>
+  <a href="https://img.shields.io/github/stars/shunny2/one-last-try?style=social"><img src="https://img.shields.io/github/stars/shunny2/one-last-try?style=social" alt="Repo Stars"/></a>
+  <a href="https://img.shields.io/github/forks/shunny2/one-last-try?style=social"><img src="https://img.shields.io/github/forks/shunny2/one-last-try?style=social" alt="Repo Forks"/></a>
+  <a href="https://img.shields.io/github/license/shunny2/one-last-try?style=social"><img src="https://img.shields.io/github/license/shunny2/one-last-try?style=social" alt="License"/></a>
 </p>
 
 ## About One Last Try
