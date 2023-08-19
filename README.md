@@ -20,7 +20,7 @@
 
 ## About Application
 
-The game prototype was developed during college.
+"<b>One Last Try</b>" is a game prototype that was developed during the Game Development course at the university. The objective was to craft a narrative and translate it into a playable game. Currently, the game is in a dormant state, as it was solely created for educational purposes and has not progressed further.
 
 ## Technologies
 
@@ -29,7 +29,7 @@ The game prototype was developed during college.
   </thead>
   <tbody>
     <td>
-      <a href="https://unity.com/" title="Unity"><img width="128" height="128" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity logo image." /></a>
+      <a href="https://unity.com/" title="Unity3D"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity logo image." /></a>
     </td>
   </tbody>
 </table>
