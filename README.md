@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about-one-last-try">About One Last Try</a>
+  <a href="#about-application">About Application</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
   <a href="https://img.shields.io/github/license/shunny2/one-last-try?style=social"><img src="https://img.shields.io/github/license/shunny2/one-last-try?style=social" alt="License"/></a>
 </p>
 
-## About One Last Try
+## About Application
 
 The game prototype was developed during college.
 
